@@ -6,8 +6,6 @@ An AI-powered weather assistant that retrieves weather information and answers q
 
 - Get current weather for a location
 - Ask weather-related questions conversationally
-- Present forecasts and conditions in a concise format
-
 ## Requirements
 
 - Node.js 18+

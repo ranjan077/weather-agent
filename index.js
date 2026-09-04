@@ -194,6 +194,4 @@ ${JSON.stringify(weather)}
   }
 }
 
-// http://api.openweathermap.org/data/4.0/onecall/current?lat=12.9767936&lon=77.590082&appid=2b8438c141b8d44498b6bccf61f92164
-// http://api.openweathermap.org/geo/1.0/direct?q=bangalore,karnataka,IN&limit=1&appid=2b8438c141b8d44498b6bccf61f92164
 chatWithWeatherAssistant();
